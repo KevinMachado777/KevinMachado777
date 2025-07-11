@@ -37,11 +37,22 @@ I'm naturally curious, which constantly drives me to explore new things that sup
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" style="margin-right: 4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="36" alt="Intellij" style="margin-right: 4px"></div>
 
- <h3 align="left">GitHub Stats</h3>
+ ## 📊 GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KevinMachado777&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KevinMachado777&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMachado777&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" alt="Top Languages" />
+</p>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinMachado777&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinMachado777&bg_color=1a1b27&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=false" alt="Activity Graph" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 Made with ❤ by <strong>Kevin Machado</strong>
 </p>
 
