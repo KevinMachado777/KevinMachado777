@@ -25,7 +25,7 @@
   <a href="https://www.tiktok.com/@https://www.tiktok.com/@k3v1nan.dres" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
- <h3 align="left">🚀Hi! I'm 18 years old and currently taking an associate's degree in Software Development and Analysis. I'm passionate about knowledge and always looking for new opportunities to learn and grow, both personally and professionally.
+ <h3 align="left">🚀Hi! I'm 19 years old and currently taking an associate's degree in Software Development and Analysis. I'm passionate about knowledge and always looking for new opportunities to learn and grow, both personally and professionally.
 
 I'm naturally curious, which constantly drives me to explore new things that support my professional growth. I also firmly believe in the power of continuous learning and daily effort.</h3>
 
