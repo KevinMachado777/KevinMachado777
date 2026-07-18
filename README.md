@@ -24,9 +24,9 @@
 ---
 
 ## 🚀 About Me
-Hi! I'm 19 years old and currently taking an associate's degree in Software Development and Analysis. I'm passionate about knowledge and always looking for new opportunities to learn and grow, both personally and professionally.
+Hi! I'm 20 years old and from Colombia. I hold an associate's degree in Software Development and Analysis, and I am currently pursuing a bachelor's degree in Software and Data Engineering. I'm passionate about learning and always looking for new opportunities to grow, both personally and professionally.
 
-I'm naturally curious, which constantly drives me to explore new things that support my professional growth. I also firmly believe in the power of continuous learning and daily effort.
+I'm naturally curious, which constantly drives me to explore new things that support my professional career. I also firmly believe in the power of continuous learning and daily effort.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="100" alt="Developer animation">
@@ -55,13 +55,6 @@ I'm naturally curious, which constantly drives me to explore new things that sup
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman" style="margin-right: 6px">
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KevinMachado777&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&cache_buster=123" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMachado777&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&cache_buster=123" alt="Top Languages">
-</p>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinMachado777&bg_color=1a1b27&color=FF2D55&line=FF2D55&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
