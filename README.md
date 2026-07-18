@@ -45,16 +45,14 @@ I'm naturally curious, which constantly drives me to explore new things that sup
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" style="margin-right: 6px">
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" alt="Spring" style="margin-right: 6px">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML5" style="margin-right: 6px">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS3" style="margin-right: 6px">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript" style="margin-right: 6px">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" style="margin-right: 6px">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" alt="Fastapi" style="margin-right: 6px">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" style="margin-right: 6px">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL" style="margin-right: 6px">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40" alt="Figma" style="margin-right: 6px">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub" style="margin-right: 6px">
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" alt="Docker" style="margin-right: 6px">
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman" style="margin-right: 6px">
-  <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="40" alt="IntelliJ" style="margin-right: 6px">
 </p>
 
 ---
