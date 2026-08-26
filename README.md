@@ -56,9 +56,6 @@ I'm naturally curious, which constantly drives me to explore new things that sup
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinMachado777&bg_color=1a1b27&color=FF2D55&line=FF2D55&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
-  </a>
 </p>
 
 ---
